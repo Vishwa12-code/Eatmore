@@ -13,3 +13,12 @@ EatMore is a mobile app UI designed in Figma. It includes essential screens for 
 Built using Figma
 
 ![image alt](https://github.com/Vishwa12-code/Eatmore/blob/50efb346d16fd102a52d57ace72fb3db00c07010/Screenshot%202025-08-24%20212809.png)
+
+
+
+🔐 Login & Signup screens
+
+![image alt](
+
+
+
