@@ -24,6 +24,6 @@ Built using Figma
 💰 Price display for items
 
 
-![image alt](
+![image alt](https://github.com/Vishwa12-code/Eatmore/blob/06f082abfd8a11176077c4b9b110bb1f16b89555/Screenshot%20(3).png)
 
 
